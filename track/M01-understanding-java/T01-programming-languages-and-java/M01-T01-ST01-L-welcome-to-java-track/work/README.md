@@ -20,8 +20,8 @@ Write the role you want to achieve.
 
 Complete these sentences:
 
-Programming means:
+Programming means: Programming is a process to create a set of instructions that will tell the computer to perform a task.
 
-Java is:
+Java is: Java is a programming language which helps us to communicate instructions with computer to perform a task.
 
 In this track, I will learn:
